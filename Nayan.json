@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "𝗦𝗮𝘀𝘂𝗸𝗲",
-  "PREFIX": ".",
+  "PREFIX": [".",  ". "], 
   "react": "🕊️",
   "OPERATOR": [
     "",
